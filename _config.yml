@@ -13,66 +13,29 @@ markdown: kramdown
 # About/contact
 author: Sharad Raj
 
-bio: Developer | Student
+bio: Programmer / Thinker 
   
 contact:
-   - title: Linkedin
-     link:  https://www.linkedin.com/in/your_id
-
    - title: Github
-     link:  https://github.com/your_id
-
-   - title: Instagram
-     link:  https://www.instagram.com/your_id
-
-   - title: Twitter
-     link:  https://www.twitter.com/your_id
+     link:  https://github.com/dansmindspace
 
    - title: Gmail
-     link:  mailto:yourmail@abc.com
+     link:  mailto:dan.thelostsorcerer@gmail.com
   
-skills:
-   - title: C
-     level: 91
-     color: primary
-
-   - title: C++
-     level: 81
-     color: success
-     
+skills:  
    - title: Python
      level: 69
      color: warning
-     
-   - title: Html
-     level: 95
-     color: primary
-     
-   - title: CSS
-     level: 89
-     color: info     
 
-   - title: Jekyll
-     level: 88
-     color: danger
 
 # Navigation (2nd level links supported)
 
 toc:
   - title: Home
     url: /
-  - title: Project Log
+  - title: Project Logs
     url: /log/    
   - title: About
     url: /about
   - title: Author
     url: /author    
-    
-  - title: Dropdown
-    subfolderitems:
-      - page: Piece 1
-        url: /piece1.html
-      - page: Piece 2
-        url: /piece2.html
-      - page: Piece 3
-        url: /piece3.html
