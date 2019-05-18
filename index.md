@@ -3,12 +3,13 @@ layout: default
 title: Home
 ---
 
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Curabitur ligula sapien, pulvinar a vestibulum quis, facilisis vel sapien. Etiam egestas wisi a erat. Aliquam erat volutpat. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. In rutrum. Aliquam id dolor. Fusce dui leo, imperdiet in, aliquam sit amet, feugiat eu, orci. Suspendisse sagittis ultrices augue. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos hymenaeos. Sed convallis magna eu sem.
+## Welcome  
+This site represents a new project I am taking on to create a Portfolio.
+As well as showcasing samples of my code, I hope to garner feedback to improve my skill and knowledge.
 
-Curabitur sagittis hendrerit ante. Duis condimentum augue id magna semper rutrum. Etiam egestas wisi a erat. Suspendisse nisl. Vivamus ac leo pretium faucibus. Etiam egestas wisi a erat. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos hymenaeos. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Praesent id justo in neque elementum ultrices. Duis risus. Sed elit dui, pellentesque a, faucibus vel, interdum nec, diam. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Nullam sit amet magna in magna gravida vehicula. Aliquam erat volutpat. Sed vel lectus. Donec odio tempus molestie, porttitor ut, iaculis quis, sem.
-
-Morbi leo mi, nonummy eget tristique non, rhoncus non leo. Proin in tellus sit amet nibh dignissim sagittis. Phasellus et lorem id felis nonummy placerat. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Maecenas ipsum velit, consectetuer eu lobortis ut, dictum at dui. Fusce dui leo, imperdiet in, aliquam sit amet, feugiat eu, orci. Nullam faucibus mi quis velit. Integer imperdiet lectus quis justo. Fusce wisi. Aliquam erat volutpat. Nulla non lectus sed nisl molestie malesuada. Fusce wisi. Phasellus faucibus molestie nisl. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
-
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Mauris dictum facilisis augue. Aliquam id dolor. Nunc auctor. Donec vitae arcu. Nullam sit amet magna in magna gravida vehicula. Proin mattis lacinia justo. Fusce aliquam vestibulum ipsum. Mauris suscipit, ligula sit amet pharetra semper, nibh ante cursus purus, vel sagittis velit mauris vel metus. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Vestibulum erat nulla, ullamcorper nec, rutrum non, nonummy ac, erat. Donec vitae arcu. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Nullam feugiat, turpis at pulvinar vulputate, erat libero tristique tellus, nec bibendum odio risus sit amet ante. Fusce nibh. Mauris metus. Nullam faucibus mi quis velit. Etiam posuere lacus quis dolor. Aliquam ante. Nulla turpis magna, cursus sit amet, suscipit a, interdum id, felis.
-
-Aliquam erat volutpat. Suspendisse sagittis ultrices augue. Integer in sapien. Nulla est. Nullam eget nisl. Fusce tellus odio, dapibus id fermentum quis, suscipit id erat. Phasellus enim erat, vestibulum vel, aliquam a, posuere eu, velit. Nam quis nulla. Vivamus ac leo pretium faucibus. Curabitur vitae diam non enim vestibulum interdum. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Aliquam ante. Mauris elementum mauris vitae tortor. Curabitur bibendum justo non orci. Proin mattis lacinia justo. Proin pede metus, vulputate nec, fermentum fringilla, vehicula vitae, justo.
+### ToDo  
+- Recent Project Logs
+- About Me
+- Credits Page
+- Theme Coloration (Done)
+- Disqus Comments
