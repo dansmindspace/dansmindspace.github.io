@@ -9489,13 +9489,13 @@ a.text-dark:hover, a.text-dark:focus {
 }
 
 .bg-dark {
-  background-color: #00bc8c !important;
+  background-color: #661a00 !important;
 }
 
 .bg-dark.navbar-dark .navbar-nav .nav-link:focus,
 .bg-dark.navbar-dark .navbar-nav .nav-link:hover,
 .bg-dark.navbar-dark .navbar-nav .active > .nav-link {
-  color: #dd0000 !important;
+  color: #375a7f !important;
 }
 
 .blockquote-footer {
