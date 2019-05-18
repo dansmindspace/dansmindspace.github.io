@@ -9485,11 +9485,11 @@ a.text-dark:hover, a.text-dark:focus {
 }
 
 .bg-primary .navbar-nav .active > .nav-link {
-  color: #00bc8c !important;
+  color: #000 !important;
 }
 
 .bg-dark {
-  background-color: #661a00 !important;
+  background-color: #000 !important;
 }
 
 .bg-dark.navbar-dark .navbar-nav .nav-link:focus,
