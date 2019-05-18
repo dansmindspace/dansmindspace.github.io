@@ -2,8 +2,8 @@
 title: Bootblog
 tagline: 'A jekyll blog theme powered by bootstrap'
 description: 'A jekyll blog theme powered by bootstrap </a>made by <a href="https://www.sharad.cf" target="_blank">@sharadcodes</a>.'
-baseurl: '/bootblog'
-url: https://sharadcodes.github.io
+baseurl: ''
+url: https://dansmindspace.github.io
 
 # Site configurations
 plugins:
