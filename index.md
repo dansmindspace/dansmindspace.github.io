@@ -13,3 +13,4 @@ As well as showcasing samples of my code, I hope to garner feedback to improve m
 - Credits Page
 - Theme Coloration (Done)
 - Disqus Comments
+- Project Log Descriptions
