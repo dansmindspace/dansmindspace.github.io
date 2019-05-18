@@ -158,14 +158,14 @@ sup {
 }
 
 a {
-  color: #00bc8c;
+  color: #cc0000;
   text-decoration: none;
   background-color: transparent;
   -webkit-text-decoration-skip: objects;
 }
 
 a:hover {
-  color: #007053;
+  color: #aa0000;
   text-decoration: underline;
 }
 
