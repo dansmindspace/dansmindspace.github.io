@@ -2,7 +2,7 @@
 layout: post
 cover: false
 navigation: false
-title: Gtk3 EnhancedTreeView Log #1
+title: Gtk3 EnhancedTreeView Log 1
 date: 2019-05-22 18:25:00
 tags: Gtk3
 subclass: 'post tag-Gtk3'
