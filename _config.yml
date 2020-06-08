@@ -4,6 +4,7 @@ tagline: 'A jekyll blog theme powered by bootstrap'
 description: 'A jekyll blog theme powered by bootstrap </a>made by <a href="https://www.sharad.cf" target="_blank">@sharadcodes</a>.'
 baseurl: '/'
 url: http://dansmind.space
+permalink: /log/:year/:month/:day/:title
 
 # Site configurations
 plugins:
