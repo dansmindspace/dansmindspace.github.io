@@ -10,6 +10,8 @@ permalink: /log/:year/:month/:day/:title
 plugins:
   - jekyll-paginate
 markdown: kramdown
+kramdown:
+  input: GFM
 
 # About/contact
 author: Daniel Dahl
