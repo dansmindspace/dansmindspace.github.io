@@ -9,15 +9,15 @@ This is page[^1] to test some of kramdowns syntax and stuff.
 * * *
 
 
-- [x] Create this page
-- [ ] View page
+[x] Create this page
+[ ] View page
 
 
 - - -
 
 
 |Tables|Are|Fun|
-|------|---|---|
+|------:|---|---|
 |Cats  |Are|Too|
 
 
