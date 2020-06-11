@@ -1,16 +1,16 @@
 ---
-layout: post
+layout: default
 title: Test Page
 ---
 
-This is page[^1] to test some of kramdowns syntax and stuff.
+This is page to test some of kramdowns syntax and stuff.
 
 
 * * *
 
 
-+ [x]  Create this page
-+ [ ]  View page
++ [x]  Create this page [x]
++ [ ]  View page [ ]
 
 
 - - -
@@ -27,6 +27,4 @@ This is page[^1] to test some of kramdowns syntax and stuff.
 Something that needs a definition
 : This sentence
 
-
-[^1]: This
 *[stuff]: A collection of items or concepts 
