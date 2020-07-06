@@ -37,7 +37,9 @@ toc:
   - title: Home
     url: /
   - title: Project Logs
-    url: /log/    
+    url: /log/  
+    - title: Test
+      url: /test
   - title: About
     url: /about
   - title: Author
