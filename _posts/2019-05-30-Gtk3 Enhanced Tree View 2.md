@@ -7,7 +7,7 @@ date: 2019-05-30 20:50:00
 tags: Gtk3
 subclass: 'post tag-Gtk3'
 author: Dan
-categories: Dan
+categories: Python
 ---
 
 Today I stumbled onto a major breakthrough when Googling "python gtk3 insert liststore into treestore". I was looking to see if there was a way to add a ListModel as a child of a TreeModel row as a quick way to build a TreeModel quickly. However I found a <a href="https://stackoverflow.com/questions/11178743/gtk-3-0-how-to-use-a-gtk-treestore-with-custom-model-items">StackOverflow link</a> that demonstrated how to implement custom "cell_data_func" functions to set cell properties. This discovery now lets me set the "cell_backround_rgba" for each row without needing to store the rgba value in the model. 
