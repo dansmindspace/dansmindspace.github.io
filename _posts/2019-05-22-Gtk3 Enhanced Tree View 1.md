@@ -7,7 +7,7 @@ date: 2019-05-22 18:25:00
 tags: Gtk3
 subclass: 'post tag-Gtk3'
 author: Dan
-categories: Dan
+categories: Python
 ---
 
 Today I moved a project I started this month into a local branch of my projects repository before starting on new code.  
