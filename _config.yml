@@ -38,9 +38,9 @@ toc:
     url: /
   - title: Project Logs
     url: /log/  
-    subfolderitems:
-    - page: Test
-      url: /test
+#     subfolderitems:
+#     - page: Test
+#       url: /test
   - title: About
     url: /about
   - title: Author
