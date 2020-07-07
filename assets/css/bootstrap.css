@@ -183,6 +183,14 @@ a:not([href]):not([tabindex]):focus {
   outline: 0;
 }
 
+body a {
+  color: #ffa500
+}
+
+body a:hover {
+  color: #fab57f
+}
+
 pre,
 code,
 kbd,
