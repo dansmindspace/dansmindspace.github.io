@@ -183,11 +183,11 @@ a:not([href]):not([tabindex]):focus {
   outline: 0;
 }
 
-body a {
+body a:not([footer]) {
   color: #ffa500
 }
 
-body a:hover {
+body a:not([footer]):hover {
   color: #fab57f
 }
 
