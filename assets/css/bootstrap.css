@@ -187,7 +187,7 @@ body a {
   color: #ffa500;
 }
 
-body a {
+body a:hover {
   color: #fab57f;
 }
 
@@ -195,7 +195,7 @@ footer a {
   color: #cc0000;
 }
 
-footer a {
+footer a:hover {
   color: #aa0000;
 }
 
