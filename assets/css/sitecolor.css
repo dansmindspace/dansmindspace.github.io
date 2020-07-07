@@ -29,6 +29,14 @@ footer a:hover {
   color: #aa0000 !important;
 }
 
+.list-group a {
+  color: #fff !important;
+} 
+
+.list-group a:hover {
+  color: #e6e600
+}
+
 /* Navbar Link Colors */
 .navbar-dark .navbar-brand {
   color: #fff !important;
