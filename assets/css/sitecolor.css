@@ -1,0 +1,61 @@
+/* Background Colors */
+body {
+  background-color: #222 !important;
+}
+
+.card {
+  background-color: #303030 !important;
+}
+
+/* Link Colors */
+body a {
+  color: #ffa500 !important;
+}
+
+body a:hover {
+  color: #fab57f !important;
+}
+
+footer a {
+  color: #cc0000 !important;
+}
+
+footer a:hover {
+  color: #aa0000 !important;
+}
+
+/* Navbar Link Colors */
+.navbar-dark .navbar-brand {
+  color: #fff !important;
+}
+
+.navbar-dark .navbar-brand:hover, .navbar-dark .navbar-brand:focus {
+  color: #fff !important;
+}
+
+.navbar-dark .navbar-nav .nav-link {
+  color: #fff !important;
+}
+
+.navbar-dark .navbar-nav .nav-link:hover, .navbar-dark .navbar-nav .nav-link:focus {
+  color: #e6e600 !important;
+}
+
+/*Navbar Color */
+.bg-primary {
+  background-color: #cc0000 !important;
+}
+
+/*
+.bg-primary .navbar-nav .active > .nav-link {
+  color: #000 !important;
+}
+
+.bg-dark {
+  background-color: #000 !important;
+}
+
+.bg-dark.navbar-dark .navbar-nav .active > .nav-link {
+  color: #375a7f !important;
+}
+*/
