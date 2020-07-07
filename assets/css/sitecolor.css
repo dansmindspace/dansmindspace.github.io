@@ -34,7 +34,7 @@ footer a:hover {
 } 
 
 .list-group a:hover {
-  color: #e6e600
+  color: #e6e600 !important;
 }
 
 /* Navbar Link Colors */
