@@ -21,7 +21,7 @@ First thing I did was select an image to use that was simple in design with a nu
 
 With permission from Daniel Shiffman, I have edited the image so there are 10 unique coloured sections. I replaced the default colours with various shades of grey to ensure each section is unique. I made the background transparent so I can change the background colour as the process happens. I also made sure the greys in the body section don't match up with the greys in the wheels.
 
-![](../assets/img/choochoobot2%201.png#center)
+![](../assets/img/choochoobot2.png#center)
 
 Next up is to remove the numbers from the ChooChooBots front panel and make a number sheet so the seed can be displayed on the image.
 
