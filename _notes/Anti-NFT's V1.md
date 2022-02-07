@@ -1,11 +1,11 @@
 ---
-title:Anti-NFT's V1
+title: Anti-NFT's V1
 date: 2022-02-03
-toc: False
-comments: False
-tags:[Art, NFT]
+toc: false
+comments: false
+stickied: false
+tags: [Art, NFT]
 ---
-# Anti-NFT's
 Version 1 - February 3 2022
 
 ## Overview

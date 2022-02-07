@@ -12,7 +12,9 @@
     {%- endif -%}
 </ul>
 {%- endif -%}
-{%- include toc.html -%}
+{%- if page.toc == true -%}
+    {% include toc.html html=content %}
+{%- endif -%}
 <div class="content">
 
     {%- assign content_array = content | split:'[[' -%}

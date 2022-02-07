@@ -1,12 +1,12 @@
-title: notenote.link
-name: My linked notebook
-user_description: notenote.link
-notes_url: "https://notenote.link.netlify.app"
+title: Dan's Mind Space
+name: A Place to showcase my Projects and Musings.
+user_description: dansmindspace.github.io
+notes_url: "https://dansmindspace.github.io"
 profile_pic: /assets/img/profile.png
 favicon: /assets/img/favicon.png
-copyright_name: MIT
+copyright_name: Daniel Dahl
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://notenote.link.netlify.app/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://dansmindspace.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 encoding: utf-8
 
 # Build settings
@@ -33,6 +33,9 @@ collections:
     notes:
       output: true
       permalink: /notes/:title
+      reverse: true
+      order:
+        - Welcome.md
 
 toc:
   max_level: 3
