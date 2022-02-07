@@ -16,21 +16,21 @@ In this first version I plan on keeping it simple and making a program in the P5
 ## Part 1 - Preparing the Images
 First thing I did was select an image to use that was simple in design with a number of sections to colour in. The ChooChooBot from [The Coding Trains Slide Puzzle](https://www.youtube.com/watch?v=uQZLzhrzEs4&t=1050s) was a perfect candidate.
 
-![](choochoobot.png)
+![](../assets/img/choochoobot.png)
 
 With permission from Daniel Shiffman, I have edited the image so there are 10 unique coloured sections. I replaced the default colours with various shades of grey to ensure each section is unique. I made the background transparent so I can change the background colour as the process happens. I also made sure the greys in the body section don't match up with the greys in the wheels.
 
-![](choochoobot2.png)
+![](../assets/img/choochoobot2%201.png)
 
 Next up is to remove the numbers from the ChooChooBots front panel and make a number sheet so the seed can be displayed on the image.
 
-![ChooChoo](choochoobot%20clean.png "ChooChoo")
+![](../assets/img/choochoobot%20clean.png "ChooChoo")
 
 Creating the number sheet will require cutting the existing number sequence into the individual numbers. The numbers 2, 6, 8, 0 are not present so they will have to be created using the segments available. 2 & 6 are easy, flip the 5 horizontally, flip the 9 both vertically & horizontally.
 
 In the end I needed to rework the 1 & 4 as they were not to the same proportions as the other digits.
 
-![](Numbers.png)
+![](../assets/img/Numbers.png)
 
 ## Part 2 - P5js
 
@@ -71,19 +71,19 @@ Everything else worked out easily enough, with lots of checking references, and 
 The current method is a little slow, not sure if it is an optimisation issue or a browser one. Did end up calibrating it so only the sections to be coloured are checked.
 
 ## Part 3 - My Favourite Results
-![](ChooChooBot%20-%20244089.png)
+![](../assets/img/ChooChooBot%20-%20244089.png)
 
-![](ChooChooBot%20-%2038219.png)
+![](../assets/img/ChooChooBot%20-%2038219.png)
 
-![](ChooChooBot%20-%20149503.png)
+![](../assets/img/ChooChooBot%20-%20149503.png)
 
-![](ChooChooBot%20-%20280222.png)
+![](../assets/img/ChooChooBot%20-%20280222.png)
 
-![](ChooChooBot%20-%20487421.png)
+![](../assets/img/ChooChooBot%20-%20487421.png)
 
-![](ChooChooBot%20-%20753634.png)
+![](../assets/img/ChooChooBot%20-%20753634.png)
 
-![](ChooChooBot%20-%20917704.png)
+![](../assets/img/ChooChooBot%20-%20917704.png)
 
 ## Final Thoughts
 Prepping the images took some work especially since I am not an artist or graphic designer. So the images have some artifacts where the original background met up with a curve, the digits aren't always centred, the colours are unconstrained. This adds to the charm that NFT's themselves are not perfect. This took a full evening of work but I am happy with the results. Next steps are to add additional reveal methods. Future versions may allow for full image compositing but that is a journey for another day.
