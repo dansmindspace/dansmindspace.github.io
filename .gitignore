@@ -2,8 +2,6 @@ _site
 .sass-cache
 .jekyll-cache
 .jekyll-metadata
-.gpg-id
-github.gpg
 vendor
 .idea
 .DS_Store
