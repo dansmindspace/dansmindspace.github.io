@@ -2,7 +2,7 @@
 title: Anti-NFT's V1
 date: 2022-02-03
 toc: true
-comments: false
+comments: true
 stickied: false
 tags: [Art, NFT]
 ---
