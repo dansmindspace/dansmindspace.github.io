@@ -8,6 +8,7 @@ copyright_name: Daniel Dahl
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://dansmindspace.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 encoding: utf-8
+google_analytics: UA-175177942-1
 
 # Build settings
 theme: null
