@@ -4,9 +4,8 @@ date: 2022-02-03
 toc: true
 comments: true
 stickied: false
-tags: [Art, NFT]
+tags: [Art, NFT, P5js]
 ---
-Version 1 - February 3 2022
 
 ## Overview
 
