@@ -30,7 +30,7 @@ Creating the number sheet will require cutting the existing number sequence into
 
 In the end I needed to rework the 1 & 4 as they were not to the same proportions as the other digits.
 
-![](../assets/img/Numbers.png#center)
+![Digits\|700](../assets/img/Numbers.png#center){:width="700"}
 
 ## Part 2 - P5js
 

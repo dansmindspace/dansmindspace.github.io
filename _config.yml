@@ -1,12 +1,12 @@
 title: Dan's Mind Space
 name: A Place to showcase my Projects and Musings.
-user_description: dansmindspace.github.io
-notes_url: "https://dansmindspace.github.io"
+user_description: dansmind.space
+notes_url: "https://dansmind.space"
 profile_pic: /assets/img/profile.png
 favicon: /assets/img/favicon.ico
 copyright_name: Daniel Dahl
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://dansmindspace.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://dansmind.space" # the base hostname & protocol for your site, e.g. http://example.com
 encoding: utf-8
 google_analytics: UA-175177942-1
 

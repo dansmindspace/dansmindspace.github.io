@@ -73,7 +73,9 @@
         });
     </script>
     {%- include contextmenu.html -%}
-    {%- include tracking.html -%}
+    {%- if jekyll.environment == 'production' -%}
+        {%- include tracking.html -%}
+    {%- endif -%}
 </body>
 
 
