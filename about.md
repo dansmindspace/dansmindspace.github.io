@@ -5,4 +5,11 @@ permalink: /about/
 content-type: eg
 ---
 
-ToDo Later. Sorry.
+### About Me
+
+### About the Site
+
+### Brief About Aphantasia
+
+### Attribution and Credits
+
