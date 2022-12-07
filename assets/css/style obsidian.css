@@ -1196,6 +1196,10 @@ img[src*='#center'] {
     font-weight: 700;
 }
 
+#p-socials a {
+    display: inline;
+}
+
 /* IE-SPECIFIC STYLING */
 
 
