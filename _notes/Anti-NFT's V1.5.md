@@ -4,7 +4,7 @@ date: 2022-02-12
 toc: true
 comments: true
 stickied: false
-tags: Art, NFT, P5js
+tags: Art NFT P5js
 ---
 
 ## Overview
