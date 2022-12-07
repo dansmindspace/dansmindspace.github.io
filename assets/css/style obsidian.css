@@ -1187,11 +1187,11 @@ img[src*='#center'] {
  display: none;
 }
 
-#copyright {
+#copyright, #div-socials {
     margin-left: 20px;
 }
 
-#copyright-notice {
+#copyright-notice, #p-socials {
     font-size: 0.7rem;
     font-weight: 700;
 }
