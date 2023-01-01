@@ -9,7 +9,7 @@ tags: Update New_Year Projects
 
 ## Plans for the site in 2023
 
-First goal for 2023 is to ensure the domain renewal in early February. I already have $20 Cad of the approx. $35 Cad needed set aside. In my past attempts at making a personal site, I would be able to get the domain only to not have the money to afford the renewal. Part of the problem being the initial cost being significantly lower. It only cost me ~$8 Cad to purchase the domain each time, but $30 - $35 Cad to renew it. I got lucky that I could reclaim my preferred address each time but I won't be taking chances this time around.
+First goal for 2023 is to ensure the domain renewal in early February. I already have \$20 Cad of the approx. \$35 Cad needed set aside. In my past attempts at making a personal site, I would be able to get the domain only to not have the money to afford the renewal. Part of the problem being the initial cost being significantly lower. It only cost me ~\$8 Cad to purchase the domain each time, but \$30 - \$35 Cad to renew it. I got lucky that I could reclaim my preferred address each time but I won't be taking chances this time around.
 
 Additionally, I plan on making more posts. I've tried in the past, formal writing being my Kryptonite. I have no problem coming up with content in my head while in the shower or out on a walk, but when I sit down and try to type it up I get stuck and feel like it is not gonna happen. When working on the [Anti-NFT's V1](../_notes/Anti-NFT's%20V1.md) project, I found just having Obsidian open and making notes as I worked lead to me being able to write about what I was working on. So with that in mind let me announce my big project of 2023.
 
