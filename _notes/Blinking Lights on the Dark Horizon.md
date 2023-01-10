@@ -4,7 +4,7 @@ date: 2023-01-09
 toc: true
 comments: true
 stickied: false
-tags: 
+tags: 12m12b, p5js, art
 ---
 
 ![](../assets/img/Blinking%20Lights%20on%20the%20Dark%20Horizon%2029633.gif)
