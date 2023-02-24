@@ -1,9 +1,7 @@
 let stamp = "https://dansmind.space/assets/hosted/img/V1.svg"
 
 function loadStamp(colour) {
-  let img = loadImage(stamp)
-  recolorStamp(img, 'black', color)
-  return img
+  return = loadImage(stamp, img => {recolorStamp(img, 'black', color)})
 }
 
 function recolorStamp(image, oldColor, newColor) {
