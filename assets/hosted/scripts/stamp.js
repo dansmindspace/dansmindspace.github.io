@@ -1,3 +1,5 @@
+let stamp = "https://dansmind.space/assets/hosted/img/V1.svg"
+
 function loadStamp() {
   return loadImage(stamp)
 }
