@@ -18,3 +18,4 @@ function recolorStamp(image, oldColor, newColor) {
     }
   }
   image.updatePixels();
+}
