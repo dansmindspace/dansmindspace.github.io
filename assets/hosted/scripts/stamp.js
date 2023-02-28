@@ -1,10 +1,11 @@
-let stamp = "https://dansmind.space/assets/hosted/img/V1.svg"
+let stampSrc = "https://dansmind.space/assets/hosted/img/V1.svg";
+let stampImg;
 
 function loadStamp(colour) {
   if (colour) {
-    return loadImage(stamp, img => recolorStamp(img, "black", colour))
-  }else {
-    return loadImage(stamp)
+    stampImg = loadImage(stampSrc, (img) => recolorStamp(img, "black", colour));
+  } else {
+    stampImg = loadImage(stampSrc);
   }
 }
 
@@ -22,5 +23,17 @@ function recolorStamp(image, oldColor, newColor) {
     }
   }
   image.updatePixels();
+}
+
+function cornerStamp(corner, size = 50, padding = 4) {
+  let x = padding;
+  let y = padding;
+  if (corner[0].toLowerCase() == "b") {
+    y = height - padding - size;
+  }
+  if (corner[1].toLowerCase() == "r") {
+    x = width - padding - size;
+  }
+  image(stampImg, x, y, size, size);
 }
 
