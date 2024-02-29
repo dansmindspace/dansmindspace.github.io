@@ -1,11 +1,12 @@
 let stampSrc = "https://dansmind.space/assets/hosted/img/V1.svg";
+let fallbackSrc = "https://dansmindspace.github.io/assets/hosted/img/V1.svg"
 let stampImg;
 
 function loadStamp(colour) {
   if (colour) {
-    stampImg = loadImage(stampSrc, (img) => recolorStamp(img, "black", colour));
+    stampImg = loadImage(fallbackSrc, (img) => recolorStamp(img, "black", colour));
   } else {
-    stampImg = loadImage(stampSrc);
+    stampImg = loadImage(fallbackSrc);
   }
 }
 
